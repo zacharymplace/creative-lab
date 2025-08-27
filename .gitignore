@@ -1,32 +1,60 @@
-
-# --- Standard ignores ---
-# General
-# Jupyter
-# Logs & outputs
-# Node
-# OS cruft
-# Python
-# VSCode
-# Virtual envs
-*.csv
-*.egg-info/
-*.log
-*.nbconvert.ipynb
-*.py[cod]
-*.pyc
-*.swp
-*.tmp
+# OS-specific
 .DS_Store
-.eggs/
-.env
-.env/
-.ipynb_checkpoints/
-.venv/
-.vscode/
 Thumbs.db
+
+# Editor / IDE
+.vscode/
+.idea/
+*.swp
+
+# Python (if you drop in scripts)
 __pycache__/
-build/
-dist/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+*.egg
+
+# Node / JS (if you prototype visuals)
 node_modules/
-out/
-out/*.csv
+dist/
+build/
+
+# Design / DAW Exports
+*.psd
+*.xcf
+*.afdesign
+*.afphoto
+*.ai
+*.eps
+*.blend
+*.aep
+*.wav
+*.aif
+*.aiff
+*.mp3
+*.flac
+*.ogg
+*.als  # Ableton
+*.logicx # Logic Pro
+*.band   # GarageBand
+
+# Temporary / Cache
+*.tmp
+*.log
+*.bak
+*.backup
+.cache/
+logs/
+npm-debug.log*
+
+# Archives
+*.zip
+*.tar
+*.tar.gz
+*.rar
+*.7z
+
+# System / Misc
+.env
+*.lock
