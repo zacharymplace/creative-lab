@@ -50,3 +50,16 @@ This is Z$’s personal lab.
 ---
 
 ## 🗂 Repo Structure (planned)
+
+```
+creative-lab/
+│
+├── poetry/ # drafts, posts, lyrical snippets
+├── sound/ # DJ crates, synth patches, music experiments
+├── visuals/ # overlays, art, design assets
+└── README.md
+```
+
+---
+
+⚡ *Commit experiments. Refine later. Keep the flow alive.*
