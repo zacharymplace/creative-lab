@@ -34,23 +34,23 @@ This log follows a **cycle-based format** rather than strict versioning.
 
 ## Cycle 2 — Cross-Linking & Refinement (2025-09-01)
 ### Added
-- *(planned)* Future posts, crates, or visuals to deepen existing seeds.
+- Add 1–2 new **poetry drafts** (could expand Creative Recovery or seed *Systems as Poetry*).  
+- Start a **new crate seed** (contrast vibe: dreamy transitions, or theatrical indie ballads).  
+- Add one **new moodboard** to visuals.  
 
 ### Changed
-- *(planned)* Refinement of drafts, index updates, and contribution ethos.
+- Refine **Creative Recovery Draft 01** → trim, shape, or expand.  
+- Tighten **README Quick Links** → ensure all new files are listed.  
+- Update **INDEX.md** → reflect Cycle 2 additions.  
 
 ### Cross-Pollination
-- *(planned)* Expand interlinks across poetry ↔ sound ↔ visuals.
+- Link *new poetry draft* ↔ *existing crate* (e.g., a Systems as Poetry draft ↔ Booty Shakers groove).  
+- Pull a **one-liner fragment** into the Social Template as placeholder text.  
+- Add a **patch log entry** tied to a visual moodboard.  
 
 ### Notes
-- This cycle focuses on **tightening connections and polishing seeds** from Cycle 1.  
-
----
-
-## 📌 Notes
-- Each cycle = a focused creative burst.  
-- Cycles can be **Seeding → Refinement → Expansion → Cross-Linking → Publishing**.  
-- Use cycle themes to capture the *vibe* of the work, not just the content.  
+- Cycle 2 is about **tightening connections and polishing Cycle 1 seeds**.  
+- Balance: add a little new material (draft, crate, moodboard), but focus on **refinement + interlinks**.  
 
 ---
 
