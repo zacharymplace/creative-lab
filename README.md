@@ -60,6 +60,14 @@ creative-lab/
 └── README.md
 ```
 
+## Quick Links
+- [Creative Recovery Draft](poetry/posts/2025_creative_recovery.md)
+- [One-Liners](poetry/fragments/one_liners.md)
+- [Booty Shakers Vol. 1](sound/crates/booty_shakers_vol1.md)
+- [Sad Pit Anthems](sound/crates/sad_pit_anthems.md)
+- [OBS Overlays](visuals/obs_overlays.md)
+- [Reset Palette Moodboard](visuals/moodboards/reset_palette.md)
+
 ---
 
 ⚡ *Commit experiments. Refine later. Keep the flow alive.*
