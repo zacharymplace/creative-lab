@@ -15,3 +15,9 @@
 - “Refactor your expectations before your code.”
 - “Energy returns to the places that welcome it.”
 - “Mix down the noise; master the signal.”
+
+---
+
+## 🔗 Related
+- Visual tie: [Reset Palette Moodboard](../../visuals/moodboards/reset_palette.md).  
+- Can seed future series like *Systems as Poetry* or *Notes to Self*.  
