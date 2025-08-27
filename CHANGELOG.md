@@ -32,10 +32,57 @@ This log follows a **cycle-based format** rather than strict versioning.
 
 ---
 
+## Cycle 2 — Cross-Linking & Refinement (2025-09-01)
+### Added
+- *(planned)* Future posts, crates, or visuals to deepen existing seeds.
+
+### Changed
+- *(planned)* Refinement of drafts, index updates, and contribution ethos.
+
+### Cross-Pollination
+- *(planned)* Expand interlinks across poetry ↔ sound ↔ visuals.
+
+### Notes
+- This cycle focuses on **tightening connections and polishing seeds** from Cycle 1.  
+
+---
+
 ## 📌 Notes
-- Future cycles will log **incremental growth**:  
-  - New drafts, crates, patches, or visuals.  
-  - Cross-pollination sweeps.  
-  - Repo scaffolding updates (docs, templates, guides).  
+- Each cycle = a focused creative burst.  
+- Cycles can be **Seeding → Refinement → Expansion → Cross-Linking → Publishing**.  
+- Use cycle themes to capture the *vibe* of the work, not just the content.  
+
+---
+
+# 🔖 Cycle Name Cheat Sheet
+
+Use these as themes for naming cycles. Pick the one that best matches the *vibe* of the work you’re doing in that round.
+
+## 🌱 Early Stage
+- **Seeding** → first drafts, stubs, scaffolding.  
+- **Sprouting** → adding a few more files, giving shape.  
+- **Scaffolding** → structuring folders, docs, indexes.  
+
+## 🛠️ Refinement
+- **Refinement** → editing drafts, tightening cross-links.  
+- **Polish** → making language, visuals, or docs cleaner.  
+- **Stabilization** → fixing imports, errors, structure issues.  
+
+## 🔮 Expansion
+- **Expansion** → adding whole new crates, series, or templates.  
+- **Branching** → trying new directions, experiments, spinoffs.  
+- **Deepening** → going deeper into one pillar (sound/poetry/visuals).  
+
+## 🌐 Cross-Pollination
+- **Cross-Linking** → weaving connections between pillars.  
+- **Integration** → tying lab outputs to other repos or systems.  
+- **Fusion** → combining mediums (poem + patch + visual).  
+
+## ⚡ Momentum
+- **Flow** → quick cycles of commits with light energy.  
+- **Ritual** → establishing repeatable practices (patch log, templates).  
+- **Harvest** → pulling outputs together for sharing/publishing.  
+
+---
 
 ⚡ *Cycle 1 complete: the lab is alive, balanced, and ready to grow.*
