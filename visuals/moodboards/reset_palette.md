@@ -36,3 +36,10 @@ A calm foundation with a single energetic accent. Designed for overlays, covers,
 - Keep contrast AA at minimum for text elements.
 - One accent per layout. Let negative space breathe.
 - Pair with grain/noise textures at 8–12% opacity.
+
+---
+
+## 🔗 Related
+- Echoes themes in [Creative Recovery Draft](../../poetry/posts/2025_creative_recovery.md).  
+- Works visually with the energy of [Sad Pit Anthems](../../sound/crates/sad_pit_anthems.md).
+- Text fragment source: “Energy returns to the places that welcome it.” ([One-Liners](../../poetry/fragments/one_liners.md))
